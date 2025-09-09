@@ -97,14 +97,23 @@
             <h2>Accounts Notes</h2>
             <button class="toggle-btn" onclick="toggleNotes('accounts-12')">Class 12</button>
             <ul class="notes" id="accounts-12">
-                <li><button class="note-btn" onclick="window.open('about:blank', '_blank')">Book 1: Accounting for
-                        Partnership Firms</button></li>
-                <li><button class="note-btn" onclick="window.open('about:blank', '_blank')">Book 2: Accounting for
-                        Companies</button></li>
-                <li><button class="note-btn" onclick="window.open('about:blank', '_blank')">Book 3: Analysis of
-                        Financial Statements</button></li>
-
+                <li>
+                    <button class="note-btn" onclick="window.open('images/book1.pdf', '_blank')">
+                        Book 1: Accounting for Partnership Firms
+                    </button>
+                </li>
+                <li>
+                    <button class="note-btn" onclick="window.open('images/book2.jpg', '_blank')">
+                        Book 2: Accounting for Companies
+                    </button>
+                </li>
+                <li>
+                    <button class="note-btn" onclick="window.open('images/book3.jpg', '_blank')">
+                        Book 3: Analysis of Financial Statements
+                    </button>
+                </li>
             </ul>
+
             <button class="toggle-btn" onclick="toggleNotes('accounts-11')">Class 11</button>
             <ul class="notes" id="accounts-11">
                 <li>Class 11 - All Chapters</li>
@@ -160,18 +169,3 @@
 </body>
 
 </html>
-
-<!--
-**sujalgain/sujalgain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
