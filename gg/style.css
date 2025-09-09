@@ -1,0 +1,16 @@
+.note-btn {
+    background-color: #333;
+    color: #00fffb;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 1em;
+    border-radius: 5px;
+    width: 100%;
+    text-align: left;
+}
+
+.note-btn:hover {
+    background-color: #444;
+}
+
